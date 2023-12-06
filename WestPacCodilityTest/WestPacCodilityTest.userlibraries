@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="projectlombok.lombok">
+    <archive path="C:/Users/Priya/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+  </library>
+</eclipse-userlibraries>
+
